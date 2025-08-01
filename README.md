@@ -65,7 +65,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/pakanan15953/pakanan15953/output/snake.svg" alt="Snake animation" />
-
-###
