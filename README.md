@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">CS student who loves building things with code.<br>🌱 Exploring AI, data, and fullstack dev.<br>💬 Let’s build something cool together!</p>
+<p align="left">Full-Stack Developer @ DMS ISOLUTIONS 💻 | Thammasat CS Alumni 🎓<br>🌱 Currently building AI-driven solutions (RAG, LangChain) & robust web apps.<br>💬 Let’s build something cool together!</p>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <a href="gg15953@gmail.com" target="_blank">
+  <a href="mailto:gg15953@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/pakanan-tantiwut25/" target="_blank">
@@ -46,12 +46,34 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
+
+###
+
+<h2 align="left">🚀 What I'm Building</h2>
+
+###
+
+<ul align="left">
+  <li><b>DMS Portal:</b> An HR management system featuring leave tracking and role-based access control.</li>
+  <li><b>RX Confirm:</b> A healthcare system for hospital medication state-tracking (Angular & Socket.io).</li>
+  <li><b>AI Assistant:</b> Context-aware document retrieval utilizing LangChain, Chroma, and Ollama.</li>
+</ul>
+
+###
+
+<h2 align="left">⚡ Outside of Code</h2>
+
+###
+
+<p align="left">🐈 Cat dad to Montri | 🎮 Souls-like & tactical shooter enthusiast (Sekiro, Elden Ring, Valorant)</p>
 
 ###
 
@@ -63,5 +85,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pakanan15953&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pakanan15953&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
