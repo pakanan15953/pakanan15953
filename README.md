@@ -15,12 +15,12 @@
 
 <div align="center">
 
-### `[ Full-Stack Developer ]` · `[ AI/ML Engineer ]` · `[ Thammasat CS Alumni ]`
+## 👋 Hi, I'm Pakanan
 
-<br>
+**Full-Stack Developer 💻 | Thammasat CS Alumni 🎓**
 
-*Crafting intelligent systems at the intersection of code and creativity.*  
-*Currently: RAG pipelines · LangChain · Real-time web applications*
+🌱 Currently building AI-driven solutions (RAG, LangChain) & robust web apps.  
+💬 Let's build something cool together!
 
 <br>
 
