@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full-Stack Developer @ DMS ISOLUTIONS 💻 | Thammasat CS Alumni 🎓<br>🌱 Currently building AI-driven solutions (RAG, LangChain) & robust web apps.<br>💬 Let’s build something cool together!</p>
+<p align="left">Full-Stack Developer 💻 | Thammasat CS Alumni 🎓<br>🌱 Currently building AI-driven solutions (RAG, LangChain) & robust web apps.<br>💬 Let’s build something cool together!</p>
 
 ###
 
@@ -62,9 +62,9 @@
 ###
 
 <ul align="left">
-  <li><b>DMS Portal:</b> An HR management system featuring leave tracking and role-based access control.</li>
-  <li><b>RX Confirm:</b> A healthcare system for hospital medication state-tracking (Angular & Socket.io).</li>
-  <li><b>AI Assistant:</b> Context-aware document retrieval utilizing LangChain, Chroma, and Ollama.</li>
+  <li><b>HR Management Portal:</b> A comprehensive system featuring leave tracking and role-based access control.</li>
+  <li><b>Real-Time MedTracker:</b> A healthcare application for medication state-tracking using Angular & Socket.io.</li>
+  <li><b>AI Document Assistant:</b> Context-aware retrieval system utilizing LangChain, Chroma, and Ollama.</li>
 </ul>
 
 ###
